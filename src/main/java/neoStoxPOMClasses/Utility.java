@@ -66,7 +66,7 @@ public class Utility
 		Properties prop = new Properties();
 		
 		//2.FileInputStream
-		FileInputStream myFile = new FileInputStream("C:\\Mangesh WorkSpace\\JavaProject\\src\\myProperty.properties");
+		FileInputStream myFile = new FileInputStream("C:\\Mangesh WorkSpace\\20_Aug_Eve_Maven\\myProperty.properties");
 		
 		//3.Load File
 		prop.load(myFile);
