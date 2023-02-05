@@ -22,6 +22,9 @@ public class Base
 		Utility.implicitlyWait(driver, 1000);
 		driver.manage().window().maximize();
 		Reporter.log("Launching Browser",true);
+		
+		
+		
 	}
 
 }
